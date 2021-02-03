@@ -110,8 +110,5 @@ Rendszerezés, katalógusok
  532.12 Összenyomhatóság
 
 
-6
-1848 1849 1848 1849 895 1516
-
-
-
+Nyelvészet helye az ETO-ban:
+https://mek.oszk.hu/00700/00769/html/eto086.htm
