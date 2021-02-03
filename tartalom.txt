@@ -1,0 +1,117 @@
+Könyvtárak története
+=====================
+
+Az információ tárolásához szükség volt az írásbeliségre, ezért könyvtárak története is itt kezdődik.
+
+A dokumentumtárakra szükség volt a(z)
+- oktatásban (tankönyv),
+- gazdaságban (nyilvántartás),
+- államigazgatásban (törvénykönyvek)
+
+Agyagtáblák: [babilónia, asszírok, ...]
+
+Papirusz-tekercsek: Alexandria nagykönyvtára a leghíresebb könyvtár a mai napig. III. Ptolemaiosz minden átkelő hajóról bekérte a könyveket és tekercseket másolásra. Sajnos i.e. 43-ban elégett.
+
+Rómaiaknál újdonság volt a közkönyvtárak megjelenése. Ezekbe bárki betérhetett, olvashatott, akár kölcsönözhetett is.
+
+Középkorban kódexek voltak az elterjedtek. Általában szerzetesek írták őket. Magyarország egyik legrégebbi könyvtára a 996-os alapítású Pannonhalmi Apátság könyvtára (Holczerben rossz az évszám! 966-ban azért nem lett volna olyan egyszerű apátságot alapítani...) Szintén fontos magyar vonatkozás: Mátyás király Corvinái. Iskolai könyvtárak: Sárospataki Református Kollégium könyvtára 1531-ből.
+
+Magyarország mai fontos könyvtárai:
+- Magyarország első nemzeti könyvtára az Országos Széchenyi Könyvtár (OSZK) Széchenyi Ferenc jóvoltából. (Nem István!)
+- Akadémiai Könyvtár Teleki adományából jött létre.
+- Fővárosi Szabó Ervin Könyvtár.
+
+
+Alapvető fogalmak és típusok
+============================
+
+A könyvtár fogalma
+
+A könyvtár nem könyveket tároló hely, mert akkor a könyvesbolt is könyvtár lenne.
+
+A könvytár
+(MIT?) 
+- könyveket
+- folyóiratokat
+- vizuális
+- audiovizuális
+- egyéb 
+tudásho kapcsolódó anyagokat 
+1. gyűjt
+2. rendszerez
+3. olvasók rendelkezésére bocsát.
+
+könyvtári szolgáltatások
+- kölcsönzés
+- előjegyzés
+- olvasóterem
+- zenehallgatás
+- katalógus
+- internet
+
+könyvtár típusai
+- nemzeti könyvtár: köteles példányokat itt gyűjtik. Ez azt jelenti, hogy minden valaha ISBN/ISSN számmal ellátott könyvből egyet ingyen ide el kell juttatni. Tehát ma Magyarországon csak akkor lehet 50 példányszám fölött könyv valami, ha van belőle példány az OSZK-ban. Egyébként pedig a magyarországi könyvtárak közötti munkát is szervezi. 
+- közművelődési könyvtárak: Könyvtárak a köz számára: FSZEK. Önkormányzat tartja fent őket. Helytörténeti gyűjtés is az ő feladatuk.
+- szakkönyvtár:
+- felsőoktatási könyvtár:
+- iskolai könyvtár:
+- gyermekkönyvtár:
+- digitális könyvtár: mek, Gutenberg project!
+
+könyvtár részei
+===============
+- bejárat
+- csoportos tanulási és foglalkoztatási övezet
+- könyvkiválasztó övezet. Szabadpolcos övezet/z	árt raktáras
+- folyóirat-olvasó
+- kézikönyvtár
+- olvasóterem
+- Nyilvántartási övezet/kölcsönzői pult
+- multimédiás övezet
+
+Könyvtári szolgáltatások
+- beiratkozás
+- kölcsönzés, kölcsönzőjegy
+- helyben olvasás, napi olvasójegy
+- bibliográfiakészítés (nem olyan fontos)
+- témafigyelés (ma már nem jellemző)
+- másolat készítése: fénymásolás
+- Kisegítő lehetőségek (gyengénlátok, Braille-eszközök)
+
+
+
+Rendszerezés, katalógusok
+=========================
+- ábécé
+- Cutter-szám
+- ETO: Egyetemes tizedes osztályozás
+
+0 Általános művek
+1 Filozófia, pszichológia, erkölcs
+2 Vallástudományok
+3 Társadalomtudományok
+4 (üres)
+5 Természettudományok
+6 Alkalmazott tudományok, technika
+7 Művészetek, sport, játék
+8 Nyelv- és irodalomtudomány
+9 Földrajz, történelem, életrajzok
+
+
+
+5 Természettudományok
+ 51 Matematika
+ 52 Csillagászat
+ 53 Fizika
+ 531 Általános mechanika
+ 532 Folyadékok mechanikája
+ 532.1 Hidrosztatika
+ 532.11 Nyomás
+ 532.12 Összenyomhatóság
+
+
+6
+1848 1849 1848 1849 895 1516
+
+
+
